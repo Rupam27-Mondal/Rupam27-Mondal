@@ -37,8 +37,8 @@
 
 ## 🧠 AI CORE / CURRENT QUESTS
 
-* 🧩 Building Full Stack Projects
-* ⚡ Mastering DSA
+* 🧩 Building AIML and Data Analysis Projects
+* ⚡ Mastering my domain
 * 🤖 Exploring AI + ML
 * 🚀 Preparing for Placements
 
