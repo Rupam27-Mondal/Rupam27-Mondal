@@ -10,8 +10,8 @@
 
 ```bash id="term01"
 > user: RUPAM MONDAL
-> role: Data Scientist & AIML Enginner 
-> stack: Python , Jyputer , Pandas , Numpy , ML
+> role: Data Scientist & Java Fullstack Developer
+> stack: Python  , SpringBoot
 > status: ONLINE 🟢
 > mode: ULTRA GAMER ⚡
 ```
@@ -37,7 +37,7 @@
 
 ## 🧠 AI CORE / CURRENT QUESTS
 
-* 🧩 Building AIML and Data Analysis Projects
+* 🧩 Building AIML and Data Analysis Projects also Fullstack development
 * ⚡ Mastering my domain
 * 🤖 Exploring AI + ML
 * 🚀 Preparing for Placements
@@ -56,10 +56,10 @@
 ## 🌐 CONNECT TERMINAL
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/rupam-mondal-842583287">
     <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mondalrupam2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
